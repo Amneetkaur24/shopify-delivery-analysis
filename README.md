@@ -44,8 +44,9 @@ This project explores delivery performance and customer behavior in a Shopify-st
 ## 📘 Google Colab Notebook
 
 👉 [Open the Colab Notebook](https://colab.research.google.com/drive/12MwoE1moEn31lDGsY_bbBNCAQoKQM-vx?usp=sharing)
-
----
+## My Blog
+For a detailed explanation and insights about this project, check out my blog post here:  
+[**How I Used Python & SQL to Improve Delivery Times on Shopify-Style Orders**](https://medium.com/@amneet1224/how-i-used-python-sql-to-improve-delivery-times-on-shopify-style-orders-69d03bb45eef)
 
 ## 🧠 Executive Summary
 
