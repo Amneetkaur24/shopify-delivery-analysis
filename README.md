@@ -1,4 +1,5 @@
 # Shopify E-Commerce Delivery Analysis
+This repository uses a single, end-to-end notebook that covers data cleaning, SQL-based analysis, visualization, and insights generation to simulate a real-world analytical workflow.
 
 This project explores delivery performance and customer behavior in a Shopify-style e-commerce dataset. It uses Python (Pandas + SQL), Power BI, and visual storytelling to derive business insights and recommendations.
 
